@@ -1,0 +1,37 @@
+#search-box{
+    width: 400px;
+    height:37px;
+    padding-left: 25px;
+}
+#search-area{
+    margin: 50px 400px;
+   
+}
+/* #meal-information{ */
+    /* display:none; */
+/* } */
+#meals{
+   
+    margin:20px;
+    display:grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap:15px;
+}
+.meal{
+    border: 1px solid gray;
+    border-radius: 15px;  
+    padding: 20px; 
+    box-shadow:7px 5px 10px cadetblue ;
+    background-color:skyblue;
+    text-align: center;
+    width: 200px;
+}
+.meal-strCategory{
+    font-size: 25px; 
+}
+.meal-image{
+   width: 125px;
+}
+#meal-detail{
+    margin: 50px 100px;
+}
