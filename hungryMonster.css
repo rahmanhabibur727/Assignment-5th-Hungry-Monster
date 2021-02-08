@@ -2,14 +2,12 @@
     width: 400px;
     height:37px;
     padding-left: 25px;
+    margin-top: 5px;
 }
 #search-area{
-    margin: 50px 400px;
-   
+    margin: 50px 400px;  
 }
-/* #meal-information{ */
-    /* display:none; */
-/* } */
+
 #meals{
    
     margin:20px;
